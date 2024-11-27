@@ -8,3 +8,4 @@
 - Dustin Henderson
 
 **Plot**: The show follows a group of friends as they encounter supernatural forces in their small town.
+Soft
